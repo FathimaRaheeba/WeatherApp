@@ -34,5 +34,5 @@ The app maps the JSON response to Kotlin data classes:
 - `Weather`: Holds the `description` (String).
 
 ---
-#Build by [Fathima Raheeba](https://raheeba.awwads.in/)
+**Build by** [Fathima Raheeba](https://raheeba.awwads.in/)
     
